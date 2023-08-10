@@ -1,6 +1,6 @@
-What is the advantage over normal algorithms?
+#What is the advantage over normal algorithms?
 
-This code is a real application, I know it has some shortcomings, but now according to the normal algorithm
+##This code is a real application, I know it has some shortcomings, but now according to the normal algorithm
 If we say what is the advantage, This code is used to simulate a basic PID control algorithm.used and has some shortcomings in real applications. In short, we know.
 For Simulation Purposes: This code uses the PID control algorithm without a temperature sensor or heater.
 used to simulate. Because it is not connected to a real physical system, real-time
